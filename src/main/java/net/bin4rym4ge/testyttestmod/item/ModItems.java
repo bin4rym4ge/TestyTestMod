@@ -12,7 +12,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
 	
-	public static final Item TESTYTESTITEM = registerItem("testy_test_item", new Item(new FabricItemSettings()));
+	public static final Item TESTYTESTITEM = registerItem("testytestitem", new Item(new FabricItemSettings()));
 	
 	private static void addItemsToIngerdientTabItemGoup(FabricItemGroupEntries entries) {
 		entries.add(TESTYTESTITEM);
