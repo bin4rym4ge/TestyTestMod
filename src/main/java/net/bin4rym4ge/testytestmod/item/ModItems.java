@@ -1,6 +1,6 @@
-package net.bin4rym4ge.testyttestmod.item;
+package net.bin4rym4ge.testytestmod.item;
 
-import net.bin4rym4ge.testyttestmod.TestyTestMod;
+import net.bin4rym4ge.testytestmod.TestyTestMod;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
