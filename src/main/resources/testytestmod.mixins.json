@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.bin4rym4ge.testyttestmod.mixin",
+	"package": "net.bin4rym4ge.testytestmod.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
 		"ExampleMixin"
