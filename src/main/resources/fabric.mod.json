@@ -16,17 +16,17 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.bin4rym4ge.testyttestmod.TestyTestMod"
+			"net.bin4rym4ge.testytestmod.TestyTestMod"
 		],
 		"client": [
-			"net.bin4rym4ge.testyttestmod.TestyTestModClient"
+			"net.bin4rym4ge.testytestmod.TestyTestModClient"
 		],
 		"fabric-datagen": [
-			"net.bin4rym4ge.testyttestmod.TestyTestModDataGenerator"
+			"net.bin4rym4ge.testytestmod.TestyTestModDataGenerator"
 		]
 	},
 	"mixins": [
-		"testy-test-mod.mixins.json"
+		"testytestmod.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.14.21",

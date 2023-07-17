@@ -1,4 +1,4 @@
-package net.bin4rym4ge.testyttestmod.mixin;
+package net.bin4rym4ge.testytestmod.mixin;
 
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
