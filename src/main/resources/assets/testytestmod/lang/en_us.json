@@ -1,3 +1,6 @@
 {
-	"item.testytestmod.testytestitem": "Testy Test Item"
+	"item.testytestmod.testytestitem": "Testy Test Item",
+	"item.testytestmod.testiertestitem": "Testy Testy Test Item",
+	"itemgroup.testytest": "Testy Test Group"
+	
 }

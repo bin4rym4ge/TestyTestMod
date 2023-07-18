@@ -3,6 +3,7 @@ package net.bin4rym4ge.testytestmod;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import net.bin4rym4ge.testytestmod.item.ModItemGroups;
 import net.bin4rym4ge.testytestmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -15,6 +16,8 @@ public class TestyTestMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		
+		ModItemGroups.registerItemGroups();
 		
 		ModItems.registerModItems();
 
