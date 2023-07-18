@@ -21,13 +21,24 @@ public class ModItemGroups {
 				entries.add(ModItems.TESTYTESTITEM);
 				entries.add(ModItems.TESTIERTESTITEM);
 				
-				entries.add(Items.REDSTONE);
+				entries.add(Items.NETHERITE_PICKAXE);
 				
 				entries.add(ModBlocks.TESTYTESTBLOCK);
 				entries.add(ModBlocks.TESTIERTESTBLOCK);
 				
+				
+				
 				entries.add(ModBlocks.TESTYTESTOREBLOCK);
 				entries.add(ModBlocks.TESTIERTESTOREBLOCK);
+				
+				entries.add(ModBlocks.DEEPSLATE_TESTYTESTOREBLOCK);
+				entries.add(ModBlocks.DEEPSLATE_TESTIERTESTOREBLOCK);
+				
+				entries.add(ModBlocks.NETHER_TESTYTESTOREBLOCK);
+				entries.add(ModBlocks.NETHER_TESTIERTESTOREBLOCK);
+				
+				entries.add(ModBlocks.END_TESTYTESTOREBLOCK);
+				entries.add(ModBlocks.END_TESTIERTESTOREBLOCK);
 
 				
 			}).build());

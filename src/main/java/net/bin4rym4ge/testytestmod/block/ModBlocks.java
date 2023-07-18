@@ -45,18 +45,18 @@ public class ModBlocks {
 
 	
 	public static final Block NETHER_TESTYTESTOREBLOCK = registerBlock("nether_testytestore_block",
-			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(1.5f).sounds(BlockSoundGroup.NETHERRACK), UniformIntProvider.create(5, 9)));
+			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.NETHERRACK).strength(1.5f), UniformIntProvider.create(5, 9)));
 	
 	public static final Block NETHER_TESTIERTESTOREBLOCK = registerBlock("nether_testiertestore_block",
-			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(1.5f).sounds(BlockSoundGroup.NETHERRACK), UniformIntProvider.create(5, 9)));
+			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.NETHERRACK).strength(1.5f), UniformIntProvider.create(5, 9)));
 
 
 		
 	public static final Block END_TESTYTESTOREBLOCK = registerBlock("end_testytestore_block",
-			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(3f), UniformIntProvider.create(15, 20)));
+			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.END_STONE).strength(3f), UniformIntProvider.create(15, 20)));
 	
 	public static final Block END_TESTIERTESTOREBLOCK = registerBlock("end_testiertestore_block",
-			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(3f), UniformIntProvider.create(15, 20)));
+			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.END_STONE).strength(3f), UniformIntProvider.create(15, 20)));
 
 
 	
