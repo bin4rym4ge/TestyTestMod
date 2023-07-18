@@ -24,6 +24,7 @@ public class ModItemGroups {
 				entries.add(Items.REDSTONE);
 				
 				entries.add(ModBlocks.TESTYTESTBLOCK);
+				entries.add(ModBlocks.TESTIERTESTBLOCK);
 				
 			}).build());
 	
