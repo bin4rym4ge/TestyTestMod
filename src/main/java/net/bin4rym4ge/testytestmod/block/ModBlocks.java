@@ -18,7 +18,7 @@ public class ModBlocks {
 	public static final Block TESTYTESTBLOCK = registerBlock("testytest_block", 
 			new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
 	
-	public static final Block TESTIERTESTBLOCK = registerBlock("testytestytest_block", 
+	public static final Block TESTIERTESTBLOCK = registerBlock("testiertest_block", 
 			new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).sounds(BlockSoundGroup.AMETHYST_BLOCK)));
 
 	
