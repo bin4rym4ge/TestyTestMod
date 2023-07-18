@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		"TTT",
+		"TTT",
+		"TTT"
+	],
+	"key": {
+		"T": {
+			"item": "testytestmod:testytestitem"
+		}
+	},
+	"result": {
+		"item": "testytestmod:testytest_block"
+	}
+}
