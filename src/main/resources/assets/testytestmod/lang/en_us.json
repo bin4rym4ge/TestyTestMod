@@ -6,6 +6,20 @@
 	"block.testytestmod.testiertest_block": "Block of Testier Test",
 	
 	
+	
+	"block.testytestmod.testytestore_block": "Testy Test Ore",
+	"block.testytestmod.testiertestore_block": "Testier Test Ore",
+	
+	"block.testytestmod.deepslate_testytestore_block": "Deepslate Testy Test Ore",
+	"block.testytestmod.deepslate_testiertestore_block": "Deepslate Testier Test Ore",
+	
+	"block.testytestmod.nether_testytestore_block": "Nether Testy Test Ore",
+	"block.testytestmod.nether_testiertestore_block": "Nether Testier Test Ore",
+	
+	"block.testytestmod.end_testytestore_block": "End Stone Testy Test Ore",
+	"block.testytestmod.end_testiertestore_block": "End Stone Testier Test Ore",
+	
+	
 	"itemgroup.testytest": "Testy Test Group"
 	
 }
