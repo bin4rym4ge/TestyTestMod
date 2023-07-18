@@ -1,6 +1,10 @@
 {
 	"item.testytestmod.testytestitem": "Testy Test Item",
 	"item.testytestmod.testiertestitem": "Testy Testy Test Item",
+	
+	"block.testytestmod.testytest_block": "Block of Testy Test",
+	
+	
 	"itemgroup.testytest": "Testy Test Group"
 	
 }
