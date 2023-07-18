@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "building",
+	"ingredients": [
+		{
+			"item": "testytestmod:testiertest_block"
+		}
+	
+	],
+	"result": {
+		"item": "testytestmod:testytest_block",
+		"count": 9
+	}
+}
