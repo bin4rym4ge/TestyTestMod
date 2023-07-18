@@ -1,6 +1,7 @@
 package net.bin4rym4ge.testytestmod.item;
 
 import net.bin4rym4ge.testytestmod.TestyTestMod;
+import net.bin4rym4ge.testytestmod.block.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -21,6 +22,8 @@ public class ModItemGroups {
 				entries.add(ModItems.TESTIERTESTITEM);
 				
 				entries.add(Items.REDSTONE);
+				
+				entries.add(ModBlocks.TESTYTESTBLOCK);
 				
 			}).build());
 	
