@@ -37,31 +37,28 @@ public class ModBlocks {
 	
 	
 	public static final Block DEEPSLATE_TESTYTESTOREBLOCK = registerBlock("deepslate_testytestore_block",
-			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.DEEPSLATE).strength(2f), UniformIntProvider.create(2, 5)));
+			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.DEEPSLATE).strength(4f).sounds(BlockSoundGroup.DEEPSLATE), UniformIntProvider.create(3, 7)));
 	
 	public static final Block DEEPSLATE_TESTIERTESTOREBLOCK = registerBlock("deepslate_testiertestore_block",
-			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.DEEPSLATE).strength(2f), UniformIntProvider.create(2, 5)));
+			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.DEEPSLATE).strength(4f).sounds(BlockSoundGroup.DEEPSLATE), UniformIntProvider.create(3, 7)));
 
 
-	
 	
 	public static final Block NETHER_TESTYTESTOREBLOCK = registerBlock("nether_testytestore_block",
-			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(1.5f).sounds(BlockSoundGroup.NETHERRACK), UniformIntProvider.create(2, 5)));
+			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(1.5f).sounds(BlockSoundGroup.NETHERRACK), UniformIntProvider.create(5, 9)));
 	
 	public static final Block NETHER_TESTIERTESTOREBLOCK = registerBlock("nether_testiertestore_block",
-			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(1.5f).sounds(BlockSoundGroup.NETHERRACK), UniformIntProvider.create(2, 5)));
+			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(1.5f).sounds(BlockSoundGroup.NETHERRACK), UniformIntProvider.create(5, 9)));
 
 
-	
-	
+		
 	public static final Block END_TESTYTESTOREBLOCK = registerBlock("end_testytestore_block",
-			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(2f), UniformIntProvider.create(2, 5)));
+			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(3f), UniformIntProvider.create(15, 20)));
 	
 	public static final Block END_TESTIERTESTOREBLOCK = registerBlock("end_testiertestore_block",
-			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(2f), UniformIntProvider.create(2, 5)));
+			new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(3f), UniformIntProvider.create(15, 20)));
 
 
-	
 	
 	//register custom blocks and block items
 	
