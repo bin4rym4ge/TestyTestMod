@@ -26,6 +26,10 @@ public class ModItemGroups {
 				entries.add(ModBlocks.TESTYTESTBLOCK);
 				entries.add(ModBlocks.TESTIERTESTBLOCK);
 				
+				entries.add(ModBlocks.TESTYTESTOREBLOCK);
+				entries.add(ModBlocks.TESTIERTESTOREBLOCK);
+
+				
 			}).build());
 	
 	public static void registerItemGroups() {
